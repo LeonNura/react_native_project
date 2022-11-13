@@ -1,0 +1,82 @@
+{
+
+    "popularphone" : [
+        {
+            "id" : 1,
+            "name" : "Samsung Galaxy Note 10",
+            "category" : "Phone",
+            "price" : "1000$",
+            "image" : "https://images.samsung.com/ca/smartphones/galaxy-note10/images/galaxy-note10_highlights_mobile_kv.jpg",
+            "description" : "Lorem Ipsum dolor sit amet"
+        },
+        {
+            "id" : 2,
+            "name" : "iPhone 12",
+            "category" : "Phone",
+            "price" : "1100$",
+            "image" : "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-pro-family-hero?wid=940&amp;hei=1112&amp;fmt=jpeg&amp;qlt=80&amp;op_usm=0.5,0.5&amp;.v=1604021663000",
+            "description" : "Lorem Ipsum dolor sit amet"
+        },
+        {
+            "id" : 3,
+            "name" : "Samsung TV",
+            "category" : "TV",
+            "price" : "350$",
+            "image" : "https://www.bhphotovideo.com/images/images1000x1000/samsung_un75tu7000fxza_75_led_4k_uhd_1546589.jpg",
+            "description" : "Lorem Ipsum dolor sit amet"
+        }
+    ],
+
+    "Samsung":[
+        {
+            "id" : 1,
+            "name" : "Samsung Galaxy Note 10",
+            "category" : "Phone",
+            "price" : "1000$",
+            "image" : "https://images.samsung.com/ca/smartphones/galaxy-note10/images/galaxy-note10_highlights_mobile_kv.jpg",
+            "description" : "Lorem Ipsum dolor sit amet"
+        },
+        {
+            "id" : 2,
+            "name" : "iPhone 12",
+            "category" : "Phone",
+            "price" : "1100$",
+            "image" : "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-pro-family-hero?wid=940&amp;hei=1112&amp;fmt=jpeg&amp;qlt=80&amp;op_usm=0.5,0.5&amp;.v=1604021663000",
+            "description" : "Lorem Ipsum dolor sit amet"
+        },
+        {
+            "id" : 3,
+            "name" : "Samsung Galaxy Z Flip",
+            "category" : "Phone",
+            "price" : "2000$",
+            "image" : "https://images.samsung.com/my/smartphones/galaxy-z-flip/buy/3-bloom-purple-gallery-mobile-img.jpg",
+            "description" : "Lorem Ipsum dolor sit amet"
+        }
+    ],
+    "Apple" : [
+        {
+            "id" : 1,
+            "name" : "TV 1",
+            "category" : "TV",
+            "price" : "500$",
+            "image" : "https://images.samsung.com/is/image/samsung/in-uhd-tv-tu8000-ua55tu8000kxxl-frontblack-226346368?$720_576_PNG$",
+            "description" : "Lorem Ipsum dolor sit amet"
+        },
+        {
+            "id" : 2,
+            "name" : "TV 2",
+            "category" : "TV",
+            "price" : "500$",
+            "image" : "https://images.samsung.com/is/image/samsung/ca-uhdtv-nu7090-un43nu6900fxzc-frontblack-115122556?$720_576_PNG$",
+            "description" : "Lorem Ipsum dolor sit amet"
+        },
+        {
+            "id" : 3,
+            "name" : "TV 3",
+            "category" : "TV",
+            "price" : "400$",
+            "image" : "https://images.samsung.com/is/image/samsung/ca-uhdtv-nu7400-un55nu7400fxzc-frontblackmist-106394490?$720_576_PNG$",
+            "description" : "Lorem Ipsum dolor sit amet"
+        }
+    ]
+}
